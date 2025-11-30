@@ -1,4 +1,15 @@
+Name: Syed Najam Uz Zaman   
+College Name: Adichunchanagiri Institute of Technology, Chikmagalur
+Contact Number: +91 6360974247
+
+
 # Work Pulse
+
+**Developed By:** Syed Najam Uz Zaman  
+**College:** Adichunchanagiri Institute of Technology, Chikmagalur  
+**Contact:** +91 6360974247
+
+---
 
 A comprehensive MERN stack application for managing employee attendance, featuring role-based access for Employees and Managers.
 
